@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.example"
+    id        = "com.phonegap.williams.agenda"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>Agenda App</name>
 
 <description>
-A simple PhoneGap Build application.
+Agenda Teléfono
 </description>
 
-<author href="https://example.com" email="you@example.com">
-Your Name
+<author href="https://www.facebook.com/williamsyair" email="williams.yair@gmail.com">
+Williams Trujillo
 </author>
 
+<preference name="phonegap-version" value="3.3.0"/>
 </widget>
