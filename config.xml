@@ -20,5 +20,5 @@ Williams Y. Trujillo
 <gap:plugin name="org.apache.cordova.camera"/>
 
 
-<preference name="phonegap-version" value="3.5.0." />
+<preference name="phonegap-version" value="3.3.0." />
 </widget>
