@@ -11,7 +11,7 @@
 Agenda con fotos
 </description>
 
-<author href="https://www..com" email="williams.yair@gmail.com">
+<author href="https://www.facebook.com/williamsyair" email="williams.yair@gmail.com">
 Williams Y. Trujillo
 </author>
 
@@ -21,5 +21,5 @@ Williams Y. Trujillo
 <gap:plugin name="org.apache.cordova.camera"/>
 
 
-<preference name="phonegap-version" value="3.4.0." />
+<preference name="phonegap-version" value="3.4.5." />
 </widget>
