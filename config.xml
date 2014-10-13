@@ -4,15 +4,21 @@
     id        = "com.phonegap.williams.agenda"
     version   = "1.0.0">
 
-<name>Agenda App</name>
+<name>Agenda</name>
 
 <description>
-Agenda Teléfono
+Agenda con fotos
 </description>
 
-<author href="https://www.facebook.com/williamsyair" email="williams.yair@gmail.com">
-Williams Trujillo
+<author href="https://www..com" email="williams.yair@gmail.com">
+Williams Y. Trujillo
 </author>
 
-<preference name="phonegap-version" value="3.3.0"/>
+<gap:plugin name="org.apache.cordova.device"/>
+<gap:plugin name="org.apache.cordova.dialogs" />
+<gap:plugin name="org.apache.cordova.contacts" version="0.2.9" />
+<gap:plugin name="org.apache.cordova.camera"/>
+
+
+<preference name="phonegap-version" value="3.5.0." />
 </widget>

@@ -1,9 +1,66 @@
-@charset "utf-8";
+@charset "UTF-8";
 /* CSS Document */
+
 
 .img_peq{
 	width:30px;
 	height:30px;
 	vertical-align:middle;
 	margin-right:10px;
+}
+
+.ui-icon-phone{
+	background: url("../assets/phone-white.png") no-repeat rgba(85,166,127,0.80) !important;
+}
+.ui-icon-mail{
+	background: url("../assets/mail-white.png") no-repeat rgba(85,166,127,0.80) !important;
+}
+
+.caja_blanca{
+	background-color:#FFFFFF;
+	border-radius:10px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-bottom:6px;
+	padding-top:1px;
+	margin-bottom:10px;
+}
+
+
+#foto, #fotoEdit{
+	text-align:center;
+}
+#foto img{
+	max-height:150px;
+}
+
+#fotoEdit img{
+	max-height:50px;
+}
+
+#cajaCategorias {
+	text-align:center;
+}
+#cajaCategorias div {
+	display:inline-block;
+}
+
+
+
+#ta_body{
+	min-height:200px;
+}
+
+
+#contenedor_lista{
+	margin-top:40px;
+}
+
+
+#listaAyuda{
+	line-height:1.6em;
+}
+
+#listaContactos{
+	padding-top:15px;
 }
